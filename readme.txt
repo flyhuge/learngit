@@ -1,3 +1,3 @@
-Git is a dist version control system.
+Git is a distaaa version control system.
 Git is free software.
 
